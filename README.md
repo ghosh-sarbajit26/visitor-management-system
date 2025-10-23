@@ -14,7 +14,7 @@ A full-stack Visitor Management System built with Node.js, Express, MongoDB, and
 📊 Admin view for statistics (future-ready)
 
 🖥️ Tech Stack
-Frontend: React, Axios, Tailwind CSS (or plain CSS)
+Frontend: React, Axios
 
 Backend: Node.js, Express
 
